@@ -2,15 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=75BDE0&text=Rohit%20Kumar%20S&animation=twinkling&desc=DSA%20Practitioner%20|%20Full-Stack%20Dev%20|%20Java%20Developer&descSize=20&fontColor=FFFFFF" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com/demo/?lines=DSA+practitioner+improving+logic%2C+patterns%2C+and+problemsolving+consistency.;Java+Developer+with+a+growing+focus+on+backend+and+clean+architecture.;FullStack+learner+building+projects+to+connect+frontend%2C+backend%2C+and+databases" alt="Typing SVG" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Driven+DSA+problem+solver;Passionate+Java-focused+developer;Curious+full-stack+builder" alt="Typing SVG" />
+  </a>
+</p>
+
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sabariyuhendh&color=8B5CF6&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=rohitkumarsundararajan&color=8B5CF6&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/rohitkumarsundararajan?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/rohitkumarsundararajan?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 
 </div>
 
@@ -30,8 +35,8 @@
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
+      <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> -->
     </td>
   </tr>
 
@@ -40,18 +45,18 @@
     <td>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
+      <!-- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> -->
     </td>
   </tr>
 
   <tr>
     <th align="left">Backend & Frameworks</th>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> -->
+      <!-- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> -->
       <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+      <!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> -->
     </td>
   </tr>
 
@@ -59,8 +64,8 @@
     <th align="left">Databases & Tools</th>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
+      <!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> -->
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     </td>
@@ -80,57 +85,20 @@
   </tr>
 
   <tr>
-    <td><b>ECHOSOUL</b><br><i>Digital Emotional Wellness Platform</i></td>
+    <td><b></b><br><i>coming soon</i></td>
     <td>
-      A comprehensive mental health platform designed to help teens and young adults process emotions, reflect, and grow through therapeutic tools and AI-powered support.
+     coming soon
     </td>
     <td>
-      React.js • Tailwind CSS • MongoDB • Firebase • AI APIs
+      coming soon
     </td>
     <td>
-      🔗 <a href="https://github.com/sabariyuhendh/echosoul" target="_blank">View →</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>VULNERABILITY SCANNER</b><br><i>Real-time Web Application Security Scanner</i></td>
-    <td>
-      A collaborative project to build a real-time vulnerability scanner for web applications with comprehensive reporting and dashboard features.
-    </td>
-    <td>
-      React.js • Tailwind CSS • GitHub
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/vulnerability-scanner" target="_blank">View →</a>
+      🔗 <a href="" target="_blank">View →</a>
     </td>
   </tr>
 
-  <tr>
-    <td><b>DEVCONNECT</b><br><i>Developer Social Network & Collaboration Hub</i></td>
-    <td>
-      A specialized social networking and collaboration platform designed exclusively for software developers, unifying professional networking, knowledge exchange, and peer collaboration.
-    </td>
-    <td>
-      React.js • Node.js • MongoDB • WebSockets
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/devconnect" target="_blank">View →</a>
-    </td>
-  </tr>
 
-  <tr>
-    <td><b>EXPENSE TRACKER</b><br><i>Financial Management System</i></td>
-    <td>
-      A comprehensive expense tracker application built with Maven, featuring SQL database integration for efficient financial tracking and money management.
-    </td>
-    <td>
-      Java • Maven • MySQL • Spring Boot
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/expense-tracker" target="_blank">View →</a>
-    </td>
-  </tr>
-</table>
+ 
 
 
 ##  DSA & Problem Solving Achievements
@@ -139,14 +107,14 @@
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 300+ | Knight Rank |
-| **CodeChef** | 567 | 1601 |
-| **CodeForces** | 136 | 969 |
-| **GeeksForGeeks** | 65+ | - |
+| **LeetCode** | 150+ | 1536 |
+| **CodeChef** | 700+ | 1426 |
+| **CodeForces** | 7 | 923 |
+| **GeeksForGeeks** | 7 | - |
 
 ###  **Hackathon Achievements**
-- **1st Place** - CodeSmash (Inter-college DSA Hackathon)
-- 🥈 **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru
+- **3rd Place** - CodeXtreme (Inter-college DSA Hackathon)
+- 🥈 **Runner-Up** - CodeVerse Competition at Karpagam College of Engineering, Coimbatore
 
 ---
 
@@ -154,20 +122,20 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabariyuhendh&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabariyuhendh&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitkumarsundararajan&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarsundararajan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabariyuhendh&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkumarsundararajan&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabariyuhendh&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumarsundararajan&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" alt="Activity Graph" />
 
 </div>
 
@@ -187,26 +155,26 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sabariyuhendh&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=rohitkumarsundararajan&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
 ##  Currently Learning  
-- Advanced React patterns and state management
-- Backend integration with Firebase & MongoDB
+- JavaScript for deeper frontend flow
+- Gradle for Java build automation
 - Advanced Data Structures & Algorithms
 - Problem Solving techniques and optimization
-- Full-Stack Development best practices
+- SQLite for lightweight database handling
 
 ---
 
 ##  Connect with Me  
 <p align="left">
-  <a href="https://github.com/sabariyuhendh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sabariyuhendhran/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sabariyuhendhran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/rohitkumarsundararajan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/rohit-kumar-sundararajan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rohitkumarsundararajan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>  
 
 ---
@@ -214,8 +182,8 @@
 <div align="center">
 
 ###  Fun Fact
-*"In the vast universe of code, every problem is just a star waiting to be discovered!"*
+*"Powered by caffeine, chaos, and console logs"*
 
-**⭐ From [sabariyuhendh](https://github.com/sabariyuhendh)**
+**⭐ From [rohitkumarsundararajan](https://github.com/rohitkumarsundararajan)**
 
 </div>
