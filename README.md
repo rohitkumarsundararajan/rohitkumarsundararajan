@@ -16,7 +16,7 @@
 
 <div align="center">
 
- Full-stack developer in progress with a strong interest in Java and DSA. Building web apps, learning modern frameworks, and strengthening problem-solving skills through competitive programming and algorithmic practice.
+ I’m deeply focused on mastering Java, strengthening my DSA foundation, and applying both while building full-stack applications. I enjoy breaking down complex problems, refining logic, and turning ideas into working features across the stack. Whether it’s writing clean backend logic, designing smooth user experiences, or improving time and space complexity, I approach each step with curiosity and intention. My journey is about becoming sharper in algorithms, more structured in development, and better at building software that actually works and scales.
 
 </div>  
 
