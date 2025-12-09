@@ -122,32 +122,33 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitkumarsundararajan&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarsundararajan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitkumarsundararajan&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarsundararajan&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkumarsundararajan&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
-
+<img src="https://streak-stats.demolab.com?user=rohitkumarsundararajan&theme=tokyonight&hide_border=true" />
 </div>
+
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumarsundararajan&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" alt="Activity Graph" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumarsundararajan&theme=tokyo-night&hide_border=true" />
 </div>
+
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitkumarsundararajan/rohitkumarsundararajan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitkumarsundararajan/rohitkumarsundararajan/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rohitkumarsundararajan/rohitkumarsundararajan/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitkumarsundararajan/rohitkumarsundararajan/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitkumarsundararajan/rohitkumarsundararajan/output/snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rohitkumarsundararajan/rohitkumarsundararajan/output/snake.svg" />
 </picture>
 
 </div>
+
 
 
 ---
