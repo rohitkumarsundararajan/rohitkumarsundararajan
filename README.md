@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=75BDE0&text=Rohit%20Kumar%20S&animation=twinkling&desc=DSA%20Practitioner%20|%20Full-Stack%20Dev%20|%20Java%20Developer&descSize=20&fontColor=FFFFFF" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com/demo/?lines=DSA+practitioner+improving+logic%2C+patterns%2C+and+problem-solving+consistency.;Java+Developer+with+a+growing+focus+on+backend+and+clean+architecture.;Full-Stack+learner+building+projects+to+connect+frontend%2C+backend%2C+and+databases." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/demo/?lines=DSA+practitioner+improving+logic%2C+patterns%2C+and+problemsolving+consistency.;Java+Developer+with+a+growing+focus+on+backend+and+clean+architecture.;FullStack+learner+building+projects+to+connect+frontend%2C+backend%2C+and+databases" alt="Typing SVG" />
 
 </div>
 
