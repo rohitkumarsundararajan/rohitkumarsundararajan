@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=75BDE0&text=Rohit%20Kumar%20S&animation=twinkling&desc=DSA%20Practitioner%20|%20Full-Stack%20Dev%20|%20Java%20Developer&descSize=20&fontColor=FFFFFF" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=BE27F5&text=Rohit%20Kumar%20S&textBg=false&fontColor=FFFFFF&fontSize=70&animation=twinkling&stroke=CABBFC&strokeWidth=0&desc=DSA%20Practitioner%20|%20Full-Stack%20Dev%20|%20Java%20Developer&descAlignY=62" alt="Header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -66,10 +66,10 @@ and building systems that are simple, scalable, and efficient.
 
 <table>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/LeetCode-150%2B_solved-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" /><br/>**Solved:** 150+<br/>**Max Rating:** 1536</td>
-    <td align="center"><img src="https://img.shields.io/badge/CodeChef-700%2B_solved-6A1B9A?style=for-the-badge&logo=codechef&logoColor=white" /><br/>**Solved:** 700+<br/>**Max Rating:** 1426</td>
-    <td align="center"><img src="https://img.shields.io/badge/CodeForces-7_solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /><br/>**Solved:** 7<br/>**Max Rating:** 923</td>
-    <td align="center"><img src="https://img.shields.io/badge/GeeksForGeeks-7_solved-0DB14B?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /><br/>**Solved:** 7<br/>**Max Rating:** —</td>
+    <td align="center"><img src="https://img.shields.io/badge/LeetCode-150%2B_solved-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" /><br/>Solved: 150+<br/>Max Rating: 1536</td>
+    <td align="center"><img src="https://img.shields.io/badge/CodeChef-700%2B_solved-6A1B9A?style=for-the-badge&logo=codechef&logoColor=white" /><br/>Solved: 700+<br/>Max Rating: 1426</td>
+    <td align="center"><img src="https://img.shields.io/badge/CodeForces-7_solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /><br/>Solved: 7<br/>Max Rating: 923</td>
+    <td align="center"><img src="https://img.shields.io/badge/GeeksForGeeks-7_solved-0DB14B?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /><br/>Solved: 7<br/>Max Rating: —</td>
   </tr>
 </table>
 
@@ -78,8 +78,8 @@ and building systems that are simple, scalable, and efficient.
 ---
 
 ## 🏆 Hackathon Highlights  
-- 🥉 **3rd Place** — CodeXtreme  
-- 🥈 **Runner-Up** — CodeVerse
+- 🥉 **3rd Place** — CodeXtreme 
+- 🥈 **Runner-Up** — CodeVerse in Karpagam College of Engineering
 
 ---
 
@@ -121,9 +121,7 @@ and building systems that are simple, scalable, and efficient.
 
 - JavaScript  
 - Gradle  
-- SQLite  
 - Advanced DSA  
-- System Design Basics
 
 ---
 
@@ -137,5 +135,6 @@ and building systems that are simple, scalable, and efficient.
 
 ---
 
-## ✨ Fun Fact  
-**Runs on caffeine, logic, and clean commits.**
+
+## 🔮 Closing Reflection  
+**Building today what my future self will thank me for.**
