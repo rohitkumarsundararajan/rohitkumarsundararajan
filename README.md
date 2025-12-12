@@ -8,176 +8,134 @@
   </a>
 </p>
 
-
 </div>
+
+---
+
+## 🧊 About Me  
+
+Focused on Java, DSA mastery, and full-stack development.  
+I enjoy turning logic into clean code, optimizing performance,  
+and building systems that are simple, scalable, and efficient.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rohitkumarsundararajan&color=8B5CF6&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/rohitkumarsundararajan?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/rohitkumarsundararajan?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+### **Programming Languages**
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<br><br>
+
+### **Frontend Development**
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br><br>
+
+### **Backend & Frameworks**
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+<!-- add frameworks here as you use them (Spring, Express, etc.) -->
+
+<br><br>
+
+### **Databases & Tools**
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
 
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|--------:|:------------|:-----------|:-----|
+| Coming Soon | Full-stack + optimized logic | Java • MySQL • HTML/CSS | 🔗 Soon |
+
+---
+
+## 🧠 DSA Achievements (clean visual style)
+
 <div align="center">
 
- I’m deeply focused on mastering Java, strengthening my DSA foundation, and applying both while building full-stack applications. I enjoy breaking down complex problems, refining logic, and turning ideas into working features across the stack. Whether it’s writing clean backend logic, designing smooth user experiences, or improving time and space complexity, I approach each step with curiosity and intention. My journey is about becoming sharper in algorithms, more structured in development, and better at building software that actually works and scales.
-
-</div>  
-
-
-##  Technical Skills  
-
-<table align="center" width="100%">
+<table>
   <tr>
-    <th align="left">Programming Languages</th>
-    <td>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
-      <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> -->
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Frontend Development</th>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
-      <!-- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> -->
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Backend & Frameworks</th>
-    <td>
-      <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> -->
-      <!-- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> -->
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-      <!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> -->
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Databases & Tools</th>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
-      <!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> -->
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    </td>
+    <td align="center"><img src="https://img.shields.io/badge/LeetCode-150%2B_solved-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" /><br/>**Solved:** 150+<br/>**Max Rating:** 1536</td>
+    <td align="center"><img src="https://img.shields.io/badge/CodeChef-700%2B_solved-6A1B9A?style=for-the-badge&logo=codechef&logoColor=white" /><br/>**Solved:** 700+<br/>**Max Rating:** 1426</td>
+    <td align="center"><img src="https://img.shields.io/badge/CodeForces-7_solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /><br/>**Solved:** 7<br/>**Max Rating:** 923</td>
+    <td align="center"><img src="https://img.shields.io/badge/GeeksForGeeks-7_solved-0DB14B?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /><br/>**Solved:** 7<br/>**Max Rating:** —</td>
   </tr>
 </table>
 
-<br>
-
-## Featured Projects  
-
-<table align="center" width="100%">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Link</th>
-  </tr>
-
-  <tr>
-    <td><b></b><br><i>coming soon</i></td>
-    <td>
-     coming soon
-    </td>
-    <td>
-      coming soon
-    </td>
-    <td>
-      🔗 <a href="" target="_blank">View →</a>
-    </td>
-  </tr>
-
-
- 
-
-
-##  DSA & Problem Solving Achievements
-
-###  **1207+ Problems Solved Across Platforms**
-
-| Platform | Problems Solved | Max Rating |
-|----------|----------------|------------|
-| **LeetCode** | 150+ | 1536 |
-| **CodeChef** | 700+ | 1426 |
-| **CodeForces** | 7 | 923 |
-| **GeeksForGeeks** | 7 | - |
-
-###  **Hackathon Achievements**
-- **3rd Place** - CodeXtreme (Inter-college DSA Hackathon)
-- 🥈 **Runner-Up** - CodeVerse Competition at Karpagam College of Engineering, Coimbatore
+</div>
 
 ---
 
-##  GitHub Analytics
+## 🏆 Hackathon Highlights  
+- 🥉 **3rd Place** — CodeXtreme  
+- 🥈 **Runner-Up** — CodeVerse
+
+---
+
+## 📊 GitHub Analytics & Activity (use these images — they work when GitHub renders your README)
 
 <div align="center">
 
+<!-- main stats -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitkumarsundararajan&show_icons=true&theme=tokyonight&hide_border=true" />
-
+<!-- top languages -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarsundararajan&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
+<br><br>
 
+<!-- contribution graph -->
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=rohitkumarsundararajan&theme=github&area=true" />
 
-<div align="center">
+<br><br>
+
+<!-- streak (if you use the streak stats service) -->
 <img src="https://streak-stats.demolab.com?user=rohitkumarsundararajan&theme=tokyonight&hide_border=true" />
+
 </div>
 
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumarsundararajan&theme=tokyo-night&hide_border=true" />
-</div>
-
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitkumarsundararajan/rohitkumarsundararajan/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitkumarsundararajan/rohitkumarsundararajan/output/snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rohitkumarsundararajan/rohitkumarsundararajan/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/rohitkumarsundararajan/rohitkumarsundararajan/output/snake.svg" />
 </picture>
-
 </div>
 
+---
 
+## 📚 Currently Learning
+
+- JavaScript  
+- Gradle  
+- SQLite  
+- Advanced DSA  
+- System Design Basics
 
 ---
 
-
-
-##  Currently Learning  
-- JavaScript for deeper frontend flow
-- Gradle for Java build automation
-- Advanced Data Structures & Algorithms
-- Problem Solving techniques and optimization
-- SQLite for lightweight database handling
-
----
-
-##  Connect with Me  
-<p align="left">
-  <a href="https://github.com/rohitkumarsundararajan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/rohit-kumar-sundararajan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rohitkumarsundararajan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>  
-
----
+## 🔗 Connect
 
 <div align="center">
-
-###  Fun Fact
-*"Powered by caffeine, chaos, and console logs"*
-
-**⭐ From [rohitkumarsundararajan](https://github.com/rohitkumarsundararajan)**
-
+<a href="https://github.com/rohitkumarsundararajan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rohit-kumar-sundararajan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rohitkumarsundararajan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
+
+---
+
+## ✨ Fun Fact  
+**Runs on caffeine, logic, and clean commits.**
