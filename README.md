@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=BE27F5&text=Rohit%20Kumar%20S&textBg=false&fontColor=FFFFFF&fontSize=70&animation=twinkling&stroke=CABBFC&strokeWidth=0&desc=DSA%20Practitioner%20|%20Full-Stack%20Dev%20|%20Java%20Developer&descAlignY=62" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F8F9FA&text=Rohit%20Kumar%20S&fontAlignY=38&desc=DSA%20Practitioner%20|%20Java%20Developer%20|%20Full-Stack%20Learner" alt="Header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -29,16 +29,19 @@ and building systems that are simple, scalable, and efficient.
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 
+
 <br><br>
 
 ### **Frontend Development**
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <br><br>
 
 ### **Backend & Frameworks**
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <!-- add frameworks here as you use them (Spring, Express, etc.) -->
 
 <br><br>
@@ -47,6 +50,7 @@ and building systems that are simple, scalable, and efficient.
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
 
 </div>
 
@@ -78,8 +82,8 @@ and building systems that are simple, scalable, and efficient.
 ---
 
 ## 🏆 Hackathon Highlights  
-- 🥉 **3rd Place** — CodeXtreme 
-- 🥈 **Runner-Up** — CodeVerse in Karpagam College of Engineering
+- 🥉 **3rd Place** — CodeXtreme — 24-hour coding hackathon
+- 🥈 **Runner-Up** — CodeVerse — DSA competition in Karpagam College of Engineering
 
 ---
 
@@ -95,12 +99,10 @@ and building systems that are simple, scalable, and efficient.
 <br><br>
 
 <!-- contribution graph -->
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=rohitkumarsundararajan&theme=github&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumarsundararajan&theme=github&area=true" />
 
 <br><br>
 
-<!-- streak (if you use the streak stats service) -->
-<img src="https://streak-stats.demolab.com?user=rohitkumarsundararajan&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -119,8 +121,7 @@ and building systems that are simple, scalable, and efficient.
 
 ## 📚 Currently Learning
 
-- JavaScript  
-- Gradle  
+- React
 - Advanced DSA  
 
 ---
@@ -136,5 +137,5 @@ and building systems that are simple, scalable, and efficient.
 ---
 
 
-## 🔮 Closing Reflection  
+
 **Building today what my future self will thank me for.**
