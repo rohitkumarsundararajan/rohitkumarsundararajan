@@ -87,7 +87,7 @@ and building systems that are simple, scalable, and efficient.
 
 ---
 
-## 📊 GitHub Analytics & Activity (use these images — they work when GitHub renders your README)
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
