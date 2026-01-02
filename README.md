@@ -60,7 +60,7 @@ and building systems that are simple, scalable, and efficient.
 
 | Project | Description | Tech Stack | Link |
 |--------:|:------------|:-----------|:-----|
-| Coming Soon | Full-stack + optimized logic | Java • MySQL • HTML/CSS | 🔗 Soon |
+| Coming Soon | Finance Manager | Java • MySQL • Maven | 🔗 Soon |
 
 ---
 
