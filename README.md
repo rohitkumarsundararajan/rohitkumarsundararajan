@@ -1,22 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F8F9FA&text=Rohit%20Kumar%20S&fontAlignY=38&desc=DSA%20Practitioner%20|%20Java%20Developer%20|%20Full-Stack%20Learner" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Rohit%20Kumar%20S&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%7C%20Full-Stack%20Builder%20%7C%20DSA%20Enthusiast&descColor=ffffff" alt="Header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Driven+DSA+problem+solver;Passionate+Java-focused+developer;Curious+full-stack+builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=6E40C9&center=true&vCenter=true&width=520&lines=Java+developer+who+loves+clean+architecture;Full-stack+builder+%7C+Spring+Boot+%2B+Next.js;1445%2B+DSA+problems+and+still+counting;Turning+logic+into+things+that+actually+work" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rohitkumarsundararajan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rohit-kumar-sundararajan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rohitkumarsundararajan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/rohit_kumar_s"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codeforces.com/profile/rohitkumarsundararajan"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
 </p>
 
 </div>
 
 ---
 
-## 🧊 About Me  
+## 🧑‍💻 About Me
 
-Focused on Java, DSA mastery, and full-stack development.  
-I enjoy turning logic into clean code, optimizing performance,  
-and building systems that are simple, scalable, and efficient.
+I'm a B.Tech CS & Business Systems student at KIT, currently in my second year — and I spend a lot of my time building things, breaking them, and figuring out why they broke.
+
+I did a 4-month internship at **Wincredible Technologies**, where I built and shipped a real client project — [BookMyIyer.com](https://bookmyiyer.com), a priest booking platform — mostly on my own. That experience taught me more about real-world dev than any course could.
+
+Outside of that, I'm someone who genuinely enjoys DSA — not just as interview prep but as problem-solving. **1445+ problems solved across platforms**, with an active streak of 321 days. I like systems that are clean, logic that's tight, and code that doesn't need a lot of explaining.
+
+Currently building full-stack projects with Spring Boot + Next.js, and slowly getting into the more interesting corners of backend — geospatial queries, JWT auth flows, real-time messaging. Still learning. Always will be.
+
+---
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td><b>🏢 Company</b></td>
+    <td><b>📌 Role</b></td>
+    <td><b>📅 Duration</b></td>
+  </tr>
+  <tr>
+    <td><b>Wincredible Technologies</b></td>
+    <td>Web Developer Intern</td>
+    <td>Mar 2026 – Jun 2026 · 4 months</td>
+  </tr>
+</table>
+
+- Built and delivered **BookMyIyer.com** end-to-end — a priest booking platform for religious ceremonies (real client, real deployment)
+- Developed and maintained websites using **WordPress**, with a focus on responsive design and UX
+- Customized themes and plugins to client requirements; worked within a team with delivery timelines
 
 ---
 
@@ -24,85 +57,132 @@ and building systems that are simple, scalable, and efficient.
 
 <div align="center">
 
-### **Programming Languages**
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+### **Languages**
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-
-<br><br>
-
-### **Frontend Development**
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <br><br>
 
-### **Backend & Frameworks**
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+### **Frameworks & Libraries**
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<!-- add frameworks here as you use them (Spring, Express, etc.) -->
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+<img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
 
 <br><br>
 
-### **Databases & Tools**
+### **Databases & Infrastructure**
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<br><br>
+
+### **Tools & Platforms**
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 | Project | Description | Tech Stack | Link |
-|--------:|:------------|:-----------|:-----|
-| Coming Soon | Finance Manager | Java • MySQL • Maven | 🔗 Soon |
+|:--------|:------------|:-----------|:----:|
+| **TrackIt – AI Finance Manager** | Intelligent expense tracker with AI-driven insights, predictive financial planning, and a real-time dashboard for income, expenses & budget visualization | Java · Maven · MySQL | [🔗 Repo](https://github.com/rohitkumarsundararajan/TrackIt-Ai-Finance-Manager) |
+| **Project NEIGHBOUR** | Full-stack hyperlocal property rental & sale platform — geospatial discovery via PostGIS, interactive Leaflet map, JWT auth, OTP verification, real-time messaging, OSRM routing & owner analytics dashboard | Spring Boot · PostgreSQL/PostGIS · Next.js · WebSockets · Leaflet.js · OSRM | 🔒 Coming Soon |
 
 ---
 
-## 🧠 DSA Achievements (clean visual style)
+## 🧠 Competitive Programming
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/LeetCode-150%2B_solved-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" /><br/>Solved: 150+<br/>Max Rating: 1536</td>
-    <td align="center"><img src="https://img.shields.io/badge/CodeChef-700%2B_solved-6A1B9A?style=for-the-badge&logo=codechef&logoColor=white" /><br/>Solved: 700+<br/>Max Rating: 1426</td>
-    <td align="center"><img src="https://img.shields.io/badge/CodeForces-7_solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /><br/>Solved: 7<br/>Max Rating: 923</td>
-    <td align="center"><img src="https://img.shields.io/badge/GeeksForGeeks-7_solved-0DB14B?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /><br/>Solved: 7<br/>Max Rating: —</td>
+    <th>Platform</th>
+    <th>Problems Solved</th>
+    <th>Max Rating</th>
+    <th>Contests</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></td>
+    <td align="center">—</td>
+    <td align="center"><b>1648</b></td>
+    <td align="center">24</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/CodeChef-6A1B9A?style=flat-square&logo=codechef&logoColor=white" /></td>
+    <td align="center">—</td>
+    <td align="center"><b>1509</b></td>
+    <td align="center">60</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></td>
+    <td align="center">—</td>
+    <td align="center"><b>1136</b></td>
+    <td align="center">—</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/CodeStudio-F47A20?style=flat-square&logoColor=white" /></td>
+    <td align="center">—</td>
+    <td align="center"><b>1506</b> · Achiever</td>
+    <td align="center">—</td>
   </tr>
 </table>
+
+<br>
+
+<img src="https://img.shields.io/badge/Total%20Problems%20Solved-1445%2B-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Active%20Coding%20Days-321-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Total%20Contests-113-orange?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🏆 Hackathon Highlights  
-- 🥉 **3rd Place** — CodeXtreme — 24-hour coding hackathon
-- 🥈 **Runner-Up** — CodeVerse — DSA competition in Karpagam College of Engineering
+## 🏆 Hackathons & Competitions
+
+| Position | Event | Organizer |
+|:--------:|:------|:----------|
+| 🥇 **1st Place** | RRR Coding Contest — INTELLINA 2K26 | Coimbatore Institute of Technology |
+| 🥇 **1st Place** | STRUCTX HACK — Data Structures Hackathon | Dept. of AI & DS, KIT |
+| 🥈 **Runner-Up** | CodeVerse — Programming Competition | Karpagam College of Engineering |
+| 🥉 **3rd Place** | CodeXtreme — 24-hour Hackathon (400+ participants) | KIT |
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📜 Certifications
+
+- 🏅 **NPTEL – Programming in Java** · 98% · **Top 1% nationwide** · 12-week · 3–4 credits
+- 📘 **NPTEL – Algorithmic Graph Theory & Data Structures** · 67% · Elite category
+- ☕ **Infosys Springboard – Java 11 Essentials** · Comprehensive Java certification
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- main stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitkumarsundararajan&show_icons=true&theme=tokyonight&hide_border=true" />
-<!-- top languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitkumarsundararajan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarsundararajan&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<!-- contribution graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumarsundararajan&theme=github&area=true" />
-
-<br><br>
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumarsundararajan&theme=tokyo-night&area=true&hide_border=true" />
 
 </div>
 
@@ -121,21 +201,24 @@ and building systems that are simple, scalable, and efficient.
 
 ## 📚 Currently Learning
 
-- React
-- Advanced DSA  
+- ⚛️ **React** — building real UIs, not just tutorials
+- 🟢 **Node.js** — filling in the JS backend side
+- 🗄️ **Advanced Spring Boot** — deeper into microservices and JPA
+- 📐 **System Design** — learning to think at scale
 
 ---
 
-## 🔗 Connect
+## 🎓 Education
+
+| Degree | Institution | Duration | Score |
+|:-------|:------------|:---------|:------|
+| B.Tech – CS & Business Systems | Kalaignarkarunanidhi Institute of Technology (KIT) | Sep 2024 – Jun 2028 | CGPA: 8.75 / 10 |
+| Senior Secondary (Class 12) | Kendriya Vidyalaya, Ooty | Graduated 2024 | 86% |
+
+---
 
 <div align="center">
-<a href="https://github.com/rohitkumarsundararajan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/rohit-kumar-sundararajan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:rohitkumarsundararajan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+*Building today what my future self will thank me for.*
+
 </div>
-
----
-
-
-
-**Building today what my future self will thank me for.**
