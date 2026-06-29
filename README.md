@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/rohit-kumar-sundararajan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rohitkumarsundararajan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/rohit_kumar_s"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-  <a href="https://codeforces.com/profile/rohitkumarsundararajan"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/kit28csbs043"><img src="https://img.shields.io/badge/CodeChef-6A1B9A?style=flat-square&logo=codechef&logoColor=white"/></a>
 </p>
 
 </div>
@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a B.Tech CS & Business Systems student at KIT, currently in my second year — and I spend a lot of my time building things, breaking them, and figuring out why they broke.
+I'm a CS & Business Systems student — and I spend a lot of my time building things, breaking them, and figuring out why they broke.
 
 I did a 4-month internship at **Wincredible Technologies**, where I built and shipped a real client project — [BookMyIyer.com](https://bookmyiyer.com), a priest booking platform — mostly on my own. That experience taught me more about real-world dev than any course could.
 
@@ -70,20 +70,14 @@ Currently building full-stack projects with Spring Boot + Next.js, and slowly ge
 ### **Frameworks & Libraries**
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-<img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
 
 <br><br>
 
 ### **Databases & Infrastructure**
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 <br><br>
@@ -114,33 +108,23 @@ Currently building full-stack projects with Spring Boot + Next.js, and slowly ge
 <table>
   <tr>
     <th>Platform</th>
-    <th>Problems Solved</th>
     <th>Max Rating</th>
-    <th>Contests</th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></td>
-    <td align="center">—</td>
     <td align="center"><b>1648</b></td>
-    <td align="center">24</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/CodeChef-6A1B9A?style=flat-square&logo=codechef&logoColor=white" /></td>
-    <td align="center">—</td>
     <td align="center"><b>1509</b></td>
-    <td align="center">60</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></td>
-    <td align="center">—</td>
     <td align="center"><b>1136</b></td>
-    <td align="center">—</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/CodeStudio-F47A20?style=flat-square&logoColor=white" /></td>
-    <td align="center">—</td>
     <td align="center"><b>1506</b> · Achiever</td>
-    <td align="center">—</td>
   </tr>
 </table>
 
@@ -203,7 +187,10 @@ Currently building full-stack projects with Spring Boot + Next.js, and slowly ge
 
 - ⚛️ **React** — building real UIs, not just tutorials
 - 🟢 **Node.js** — filling in the JS backend side
-- 🗄️ **Advanced Spring Boot** — deeper into microservices and JPA
+- 🗺️ **Next.js** — SSR and full-stack React patterns
+- 🌿 **Leaflet.js** — interactive maps and geospatial UIs
+- 🔐 **JWT & WebSockets** — auth flows and real-time systems
+- 🗄️ **PostGIS** — spatial queries and geospatial data
 - 📐 **System Design** — learning to think at scale
 
 ---
